@@ -1,0 +1,1 @@
+# openshift-streams-strimzi-ui-build
