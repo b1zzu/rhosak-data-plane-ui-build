@@ -1,1 +1,1 @@
-# openshift-streams-strimzi-ui-build
+# rhosak-data-plane-ui-build
